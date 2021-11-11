@@ -1,0 +1,44 @@
+h3 {
+    font-size: 40px !important;
+    background-color: rgb(182, 64, 64);
+    font-weight: bolder;
+}
+
+body {
+    border-width: 18px;
+    border-style: dashed;
+    border-color: rgb(255, 0, 0);
+    background-color: brown;
+}
+
+ button{
+    font-size: 15px;
+    box-shadow: none;
+    border-width: 5px;
+    border-radius: 18px;
+    background-color: rgb(255, 172, 47);
+    color: rgb(78, 0, 0);
+}
+
+button:hover {
+    font-size: 20px;
+    box-shadow: 0 12px 16px 0 rgb(138, 90, 0), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: rgb(197, 0, 82);
+    color: rgb(221, 223, 141);
+}
+
+canvas {
+    border: 20px rgb(94, 37, 48);
+    margin-top: 100;
+    border-style: ridge;
+}
+
+label {
+    font-weight: bolder;
+    font-size: x-small;
+}
+
+marquee {
+    font-weight: bolder;
+    font-size: smaller;
+}
